@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+output/
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+Debug/*
+Release/*
+x64/*
+VAD/Debug/*
+VAD/Release/*
+VAD/x64/*
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Sphinx documentation
+docs/
+_build/
+
+.idea/*
+.vs/*
+.vscode/*
